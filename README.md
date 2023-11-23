@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 	👋 Hey! Nice to see you!
 </h1>
 
-bilibili：[https://space.bilibili.com/262736196](https://space.bilibili.com/262736196)
+🥳 bilibili：[https://space.bilibili.com/262736196](https://space.bilibili.com/262736196)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2016%20mins-blue)
