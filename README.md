@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **vincent662607/vincent662607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">
+	👋 Hey! Nice to see you!
+</h1>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2016%20mins-blue)
