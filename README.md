@@ -16,18 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-	👋 Hey! Nice to see you!
+	👋 Hey! Nice to see you! 🥳
 </h1>
-
-🥳 bilibili：
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-429.4%20thousand%20lines%20of%20code-blue)
 
-**
-🐱 My GitHub Data** 
+**🐱 My GitHub Data** 
 
 > 📦 95.9 kB Used in GitHub's Storage 
  > 
