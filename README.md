@@ -50,9 +50,6 @@ Here are some ideas to get you started:
  Last Updated on 22/11/2023 18:37:06 UTC
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-nicky&show_icons=true&locale=en&layout=compact&theme=solarized-light"
-alt="vincent-nicky" />
-
 ### 📍The number of times my github has been accessed ( Not entirely accurate ) :
 
 <img src="https://count.getloli.com/get/@:vincent662607?theme=rule34" alt=":vincent662607" />
