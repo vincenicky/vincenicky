@@ -26,13 +26,12 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-429.4%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**
+🐱 My GitHub Data** 
 
 > 📦 95.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1,124 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
  > 
